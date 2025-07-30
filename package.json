@@ -1,0 +1,17 @@
+{
+  "name": "emploi-video-canada",
+  "version": "1.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "axios": "^1.6.0",
+    "video.js": "^8.10.0"
+  }
+}
